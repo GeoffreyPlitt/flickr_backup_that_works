@@ -1,0 +1,4 @@
+flickrapi
+simplejson
+requests
+python-memcached
